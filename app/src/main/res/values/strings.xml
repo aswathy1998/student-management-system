@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">student management system</string>
+    <string-array name="list">
+        <item>Bsc</item>
+        <item>Msc</item>
+        <item>Bca</item>
+        <item>Mca</item>
+        <item>Mba</item>
+
+    </string-array>
+
+    <string-array name="collegelist">
+        <item>MZC</item>
+        <item>SAS</item>
+        <item>VNS</item>
+        <item>STAS</item>
+        <item>NSS</item>
+    </string-array>
+
+    <string-array name="courselist">
+        <item>MCA</item>
+        <item>MBA</item>
+        <item>CIVIL</item>
+        <item>CS</item>
+        <item>ELECTRONICS</item>
+        <item>AERONOTICAL</item>
+
+
+    </string-array>
+
+</resources>
